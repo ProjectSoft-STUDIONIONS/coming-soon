@@ -1,2 +1,2 @@
 # coming-soon
-Шаблон. Сайт на обслуживании EvolutionCMS
+Шаблон. Сайт на обслуживании Evolution CMS

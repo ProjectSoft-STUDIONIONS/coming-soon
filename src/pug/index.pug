@@ -1,0 +1,74 @@
+if dev
+	|<?php
+	|header("Content-type: text/html; charset=utf-8");
+	|header('HTTP/1.1 503 Service Temporarily Unavailable');
+	|header('Status: 503 Service Temporarily Unavailable');?>
+doctype html
+html(prefix="og: http://ogp.me/ns#" lang="ru")
+	head
+		meta(http-equiv="Content-Type" content="text/html; charset=UTF-8")
+		meta(content="width=device-width, initial-scale=1" name="viewport")
+		meta(http-equiv="X-UA-Compatible" content="IE=edge")
+		meta(name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE")
+		meta(name="cmsmagazine" content="d8e7426ec72ad3e4ea38b09ebf01284c")
+		title Сайт находится на обслуживании
+		base(href="/")
+		link(rel="icon" type="image/png" href="/assets/templates/comingsoon/favicon-96x96.png" sizes="96x96")
+		link(rel="icon" type="image/svg+xml" href="/assets/templates/comingsoon/favicon.svg")
+		link(rel="shortcut icon" href="/assets/templates/comingsoon/favicon.ico")
+		link(rel="apple-touch-icon" sizes="180x180" href="/assets/templates/comingsoon/apple-touch-icon.png")
+		link(rel="manifest" href="/assets/templates/comingsoon/site.webmanifest")
+		meta(name="apple-mobile-web-app-title" content="Сайт находится на обслуживании")
+		meta(itemprop="title" name="title" content="Сайт находится на обслуживании")
+		meta(itemprop="description" name="description" content="Сайт находится на обслуживании")
+		meta(itemprop="keywords" name="keywords" content="")
+		meta(itemprop="image" name="image" content="/assets/templates/comingsoon/images/default.jpg")
+		meta(name="robots" content="index, follow")
+		meta(property="og:title" content="Сайт находится на обслуживании")
+		meta(property="og:description" content="Сайт находится на обслуживании")
+		meta(property="og:url" content="/")
+		meta(property="og:locale" content="ru_RU")
+		meta(property="og:type" content="website")
+		meta(property="og:site_name" content="Сайт находится на обслуживании")
+		meta(property="og:image" content="/assets/templates/comingsoon/images/default.jpg")
+		meta(property="og:image:width" content="1024")
+		meta(property="og:image:height" content="768")
+		meta(property="og:image:type" content="image/png")
+		meta(property="vk:image" content="/assets/templates/comingsoon/images/default.jpg")
+		style
+			include inline.css
+		link(rel="stylesheet" href="/assets/templates/comingsoon/css/main.min.css?" + hash_css)
+	body.studionions.load
+		div.preloader
+			img(src="/assets/templates/comingsoon/images/test.png" alt="ProjectSoft")
+		div.page.clearfix
+			main.container.clearfix
+				div.flexbox
+					div.content
+						div.content-wrapper
+							h1 Сайт на&shy;хо&shy;дит&shy;ся на об&shy;слу&shy;жи&shy;ва&shy;нии</h1>
+							p
+								|За более под&shy;роб&shy;ной ин&shy;фор&shy;ма&shy;цией об&shy;ра&shy;ти&shy;тесь к ад&shy;ми&shy;нис&shy;тра&shy;то&shy;ру сай&shy;та&nbsp;-
+								=" "
+								a(href="https://t.me/ProjectSoft" target="_blank") ProjectSoft
+					div.plugin
+						div.plugin-wrapper
+							div.artclock
+								div.clock(data-plugin="clock")
+									div.glass
+									div.background
+										include bghour.svg
+									div.hour
+										include hour.svg
+									div.minute
+										include minutes.svg
+									div.second
+										include seconds.svg
+				footer.footer
+					div.footer-wrapper
+						p.developer
+							|Разработка, поддержка и продвижение сайтов:
+							br
+							a(href="http://www.cmsmagazine.ru/creators/studionions/" target="_blank")
+								|ProjectSoft
+		script(src="/assets/templates/comingsoon/js/main.min.js?" + hash_js)

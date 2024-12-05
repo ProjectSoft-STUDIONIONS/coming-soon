@@ -1,0 +1,19 @@
+{
+	"name": "coming_soon",
+	"description": "Шаблон. Сайт на обслуживании Evolution CMS",
+	"main": "Grunfile.js",
+	"authors": [
+		"ProjectSoft <projectsoft2009@yandex.ru>"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/ProjectSoft-STUDIONIONS/coming-soon",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {},
+	"devDependencies": {}
+}

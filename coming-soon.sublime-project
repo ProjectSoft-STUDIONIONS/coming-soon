@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"name": "Шаблон. Сайт на обслуживании Evolution CMS",
+			"path": "."
+		}
+	],
+	"settings":  {
+		"font_size": 14,
+		"tab_size": 4
+	},
+	"build_systems": [
+		{
+			"name": "Build Site Project",
+			"working_dir": "${project_path}",
+			"shell_cmd": "npm run build"
+		}
+	]
+}
