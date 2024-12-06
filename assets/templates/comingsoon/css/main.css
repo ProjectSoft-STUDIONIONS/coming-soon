@@ -3,28 +3,28 @@
   font-style: normal;
   font-weight: 400;
   font-stretch: normal;
-  src: url("/assets/templates/comingsoon/fonts/NotoSans-Regular.woff2?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-Regular.woff?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-Regular.eot?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-Regular.ttf?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("ttf");
+  src: url("/assets/templates/comingsoon/fonts/NotoSans-Regular.woff2?cf124558d4989e1b0a42185068ec8595") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-Regular.woff?cf124558d4989e1b0a42185068ec8595") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-Regular.eot?cf124558d4989e1b0a42185068ec8595") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-Regular.ttf?cf124558d4989e1b0a42185068ec8595") format("ttf");
 }
 @font-face {
   font-family: 'Noto Sans';
   font-style: normal;
   font-weight: 700;
   font-stretch: normal;
-  src: url("/assets/templates/comingsoon/fonts/NotoSans-Bold.woff2?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-Bold.woff?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-Bold.eot?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-Bold.ttf?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("ttf");
+  src: url("/assets/templates/comingsoon/fonts/NotoSans-Bold.woff2?cf124558d4989e1b0a42185068ec8595") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-Bold.woff?cf124558d4989e1b0a42185068ec8595") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-Bold.eot?cf124558d4989e1b0a42185068ec8595") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-Bold.ttf?cf124558d4989e1b0a42185068ec8595") format("ttf");
 }
 @font-face {
   font-family: 'Noto Sans';
   font-style: italic;
   font-weight: 400;
   font-stretch: normal;
-  src: url("/assets/templates/comingsoon/fonts/NotoSans-Italic.woff2?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-Italic.woff?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-Italic.eot?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-Italic.ttf?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("ttf");
+  src: url("/assets/templates/comingsoon/fonts/NotoSans-Italic.woff2?cf124558d4989e1b0a42185068ec8595") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-Italic.woff?cf124558d4989e1b0a42185068ec8595") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-Italic.eot?cf124558d4989e1b0a42185068ec8595") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-Italic.ttf?cf124558d4989e1b0a42185068ec8595") format("ttf");
 }
 @font-face {
   font-family: 'Noto Sans';
   font-style: italic;
   font-weight: 700;
   font-stretch: normal;
-  src: url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.woff2?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.woff?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.eot?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.ttf?2770a 2aaf 5eba 180db 480febf 0f 0fe 99") format("ttf");
+  src: url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.woff2?cf124558d4989e1b0a42185068ec8595") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.woff?cf124558d4989e1b0a42185068ec8595") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.eot?cf124558d4989e1b0a42185068ec8595") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.ttf?cf124558d4989e1b0a42185068ec8595") format("ttf");
 }
 .container {
   min-height: 100vh;
