@@ -98,7 +98,7 @@ module.exports = function(grunt) {
 					'assets/templates/comingsoon/css/main.css' : [
 						'src/less/main.less'
 					],
-					'src/pug/inline.css': [
+					'src/css/inline.css': [
 						'src/less/inline.less'
 					]
 				}
@@ -116,8 +116,8 @@ module.exports = function(grunt) {
 					'assets/templates/comingsoon/css/main.css' : [
 						'assets/templates/comingsoon/css/main.css'
 					],
-					'src/pug/inline.css' : [
-						'src/pug/inline.css'
+					'src/css/inline.css' : [
+						'src/css/inline.css'
 					],
 				}
 			},
@@ -130,7 +130,7 @@ module.exports = function(grunt) {
 			minify: {
 				files: {
 					'assets/templates/comingsoon/css/main.min.css' : ['assets/templates/comingsoon/css/main.css'],
-					'src/pug/inline.css': ['src/pug/inline.css'],
+					'src/css/inline.css': ['src/css/inline.css'],
 				}
 			},
 		},
