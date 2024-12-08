@@ -30,8 +30,3 @@
 	});
 	init();
 }());
-/**
-<a href="https://github.com/ProjectSoft-STUDIONIONS/radioApp-lite/releases/latest/download/YourRadioLightSetup.exe" download="YourRadioLightSetup.exe" target="_blank">
-	<img src="https://img.shields.io/github/downloads/ProjectSoft-STUDIONIONS/radioApp-lite/total?style=for-the-badge&amp;color=%2397ca00&amp;label=СКАЧАТЬ" alt="Download YourRadioLightSetup.exe">
-</a>
-**/
