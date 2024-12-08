@@ -24,6 +24,9 @@
 		};
 	window.addEventListener('load', function(e) {
 		preloader.classList.add('loading');
+		setTimeout(() => {
+			ge('body').classList.remove('load');
+		}, 2000);
 	});
 	init();
 }());

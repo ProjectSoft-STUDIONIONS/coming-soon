@@ -3,28 +3,28 @@
   font-style: normal;
   font-weight: 400;
   font-stretch: normal;
-  src: url("/assets/templates/comingsoon/fonts/NotoSans-Regular.woff2?db68db3b95b199589914ba80eb1dd5eb") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-Regular.woff?db68db3b95b199589914ba80eb1dd5eb") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-Regular.eot?db68db3b95b199589914ba80eb1dd5eb") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-Regular.ttf?db68db3b95b199589914ba80eb1dd5eb") format("ttf");
+  src: url("/assets/templates/comingsoon/fonts/NotoSans-Regular.woff2?e8f91feb506aa7a3faefd281e5914183") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-Regular.woff?e8f91feb506aa7a3faefd281e5914183") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-Regular.eot?e8f91feb506aa7a3faefd281e5914183") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-Regular.ttf?e8f91feb506aa7a3faefd281e5914183") format("ttf");
 }
 @font-face {
   font-family: 'Noto Sans';
   font-style: normal;
   font-weight: 700;
   font-stretch: normal;
-  src: url("/assets/templates/comingsoon/fonts/NotoSans-Bold.woff2?db68db3b95b199589914ba80eb1dd5eb") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-Bold.woff?db68db3b95b199589914ba80eb1dd5eb") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-Bold.eot?db68db3b95b199589914ba80eb1dd5eb") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-Bold.ttf?db68db3b95b199589914ba80eb1dd5eb") format("ttf");
+  src: url("/assets/templates/comingsoon/fonts/NotoSans-Bold.woff2?e8f91feb506aa7a3faefd281e5914183") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-Bold.woff?e8f91feb506aa7a3faefd281e5914183") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-Bold.eot?e8f91feb506aa7a3faefd281e5914183") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-Bold.ttf?e8f91feb506aa7a3faefd281e5914183") format("ttf");
 }
 @font-face {
   font-family: 'Noto Sans';
   font-style: italic;
   font-weight: 400;
   font-stretch: normal;
-  src: url("/assets/templates/comingsoon/fonts/NotoSans-Italic.woff2?db68db3b95b199589914ba80eb1dd5eb") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-Italic.woff?db68db3b95b199589914ba80eb1dd5eb") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-Italic.eot?db68db3b95b199589914ba80eb1dd5eb") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-Italic.ttf?db68db3b95b199589914ba80eb1dd5eb") format("ttf");
+  src: url("/assets/templates/comingsoon/fonts/NotoSans-Italic.woff2?e8f91feb506aa7a3faefd281e5914183") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-Italic.woff?e8f91feb506aa7a3faefd281e5914183") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-Italic.eot?e8f91feb506aa7a3faefd281e5914183") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-Italic.ttf?e8f91feb506aa7a3faefd281e5914183") format("ttf");
 }
 @font-face {
   font-family: 'Noto Sans';
   font-style: italic;
   font-weight: 700;
   font-stretch: normal;
-  src: url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.woff2?db68db3b95b199589914ba80eb1dd5eb") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.woff?db68db3b95b199589914ba80eb1dd5eb") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.eot?db68db3b95b199589914ba80eb1dd5eb") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.ttf?db68db3b95b199589914ba80eb1dd5eb") format("ttf");
+  src: url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.woff2?e8f91feb506aa7a3faefd281e5914183") format("woff2"), url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.woff?e8f91feb506aa7a3faefd281e5914183") format("woff"), url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.eot?e8f91feb506aa7a3faefd281e5914183") format("eot"), url("/assets/templates/comingsoon/fonts/NotoSans-BoldItalic.ttf?e8f91feb506aa7a3faefd281e5914183") format("ttf");
 }
 .container {
   min-height: 100vh;
